@@ -1,0 +1,12 @@
+{
+  "name": "my-first-chat",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "author": "K-ro <caro@mail.com>",
+  "dependencies": {
+    "ent": "^0.1.0",
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  }
+}
